@@ -1,0 +1,15 @@
+#country-details{
+
+    display: grid;
+    grid-template-columns: repeat(4,2fr);
+    gap: 10px;
+}
+.country{
+
+    border: 2px solid tomato;
+    padding: 20px;
+    border-radius: 10px;
+}
+.country-section{
+    margin-top: 15px;
+}
